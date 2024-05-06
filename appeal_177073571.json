@@ -1,0 +1,191 @@
+{
+    "id": 177073571,
+    "status": {
+        "status": "SEND_RESPONSE",
+        "title": "Отправлен ответ",
+        "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/SEND_RESPONSE.png"
+    },
+    "subject": {
+        "id": 114,
+        "name": "Автомобильные дороги",
+        "notSelected": false
+    },
+    "subsubject": {
+        "id": 129,
+        "name": "Ремонт дорог",
+        "notSelected": false
+    },
+    "createdAt": "2022-11-01T08:28:24.844787Z",
+    "attachments": null,
+    "subjectIconUrl": "https://pos.gosuslugi.ru/inbox-service/filestorage/preview/c85902ff-69fe-4b68-8a62-eb99e22c86b5",
+    "location": "Россия, Ростов-на-Дону, 1-й Машиностроительный переулок",
+    "description": "Дорога в кошмарном состоянии. Асфальта нет, просто грязь ",
+    "stage": "Жалоба рассмотрена",
+    "followCount": 0,
+    "followed": false,
+    "shared": false,
+    "routeSteps": [
+        {
+            "status": {
+                "status": "MODERATION_NEW",
+                "title": "На модерации",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/MODERATION_NEW.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-01T08:28:24.888210Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "ПРАВИТЕЛЬСТВО РОСТОВСКОЙ ОБЛАСТИ",
+            "forwardedToOrganizationTitle": null,
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "MODERATION_ACCEPT",
+                "title": "Прошло модерацию",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/MODERATION_ACCEPT.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-01T08:32:09.406103Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "ПРАВИТЕЛЬСТВО РОСТОВСКОЙ ОБЛАСТИ",
+            "forwardedToOrganizationTitle": null,
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "FORWARD_TO_SUBORDINATE",
+                "title": "Перенаправлено",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/FORWARD_TO_SUBORDINATE.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-01T09:21:25.145514Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "ПРАВИТЕЛЬСТВО РОСТОВСКОЙ ОБЛАСТИ",
+            "forwardedToOrganizationTitle": "АДМИНИСТРАЦИЯ ГОРОДА РОСТОВА-НА-ДОНУ",
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "FORWARD_TO_SUBORDINATE",
+                "title": "Перенаправлено",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/FORWARD_TO_SUBORDINATE.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-01T11:42:33.936640Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "АДМИНИСТРАЦИЯ ГОРОДА РОСТОВА-НА-ДОНУ",
+            "forwardedToOrganizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА\" СОВЕТСКОГО РАЙОНА ГОРОДА РОСТОВА-НА-ДОНУ",
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "SET_EXECUTOR",
+                "title": "Назначен исполнитель",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/SET_EXECUTOR.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-01T14:39:25.371109Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА\" СОВЕТСКОГО РАЙОНА ГОРОДА РОСТОВА-НА-ДОНУ",
+            "forwardedToOrganizationTitle": null,
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "FORWARD_TO_PARENT",
+                "title": "Перенаправлено",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/FORWARD_TO_PARENT.png"
+            },
+            "comment": "ВОПРОС ДИСОТИ",
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-02T07:58:48.149269Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА\" СОВЕТСКОГО РАЙОНА ГОРОДА РОСТОВА-НА-ДОНУ",
+            "forwardedToOrganizationTitle": "АДМИНИСТРАЦИЯ СОВЕТСКОГО РАЙОНА ГОРОДА РОСТОВА-НА-ДОНУ",
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "FORWARD_TO_NON_SUBORDINATE",
+                "title": "Перенаправлено",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/FORWARD_TO_NON_SUBORDINATE.png"
+            },
+            "comment": "",
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-03T06:58:09.870751Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "АДМИНИСТРАЦИЯ ГОРОДА РОСТОВА-НА-ДОНУ",
+            "forwardedToOrganizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЁННОЕ УЧРЕЖДЕНИЕ \"ДИРЕКЦИЯ ПО СТРОИТЕЛЬСТВУ ОБЪЕКТОВ ТРАНСПОРТНОЙ ИНФРАСТРУКТУРЫ Г. РОСТОВА-НА-ДОНУ\"",
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "TAKE_TO_WORK",
+                "title": "Взято в работу",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/TAKE_TO_WORK.png"
+            },
+            "comment": null,
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-03T12:46:25.897592Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЁННОЕ УЧРЕЖДЕНИЕ \"ДИРЕКЦИЯ ПО СТРОИТЕЛЬСТВУ ОБЪЕКТОВ ТРАНСПОРТНОЙ ИНФРАСТРУКТУРЫ Г. РОСТОВА-НА-ДОНУ\"",
+            "forwardedToOrganizationTitle": null,
+            "stage": null,
+            "feedbackRecieved": null,
+            "escalationRequested": null
+        },
+        {
+            "status": {
+                "status": "SEND_RESPONSE",
+                "title": "Отправлен ответ",
+                "statusIconUrl": "https://pos.gosuslugi.ru/api-service/static/external-status/SEND_RESPONSE.png"
+            },
+            "comment": "<p>Министерством транспорта Ростовской области согласовано перераспределение средств, сложившихся при реализации национального проекта «Безопасные качественные автомобильные дороги» на производство работ \nпо ремонту автомобильной дороги по пер. 1-й Машиностроительный.\nВ настоящее время завершено определение подрядной организации\nООО «Стройавтодор». Ориентировочный срок заключения муниципального контракта 07.11.2022. Планируемы срок завершения работ 01.12.2022.\nВ рамках ремонта пер. 1-й Машиностроительный планируется выполнить замену верхнего слоя покрытия на площади 8323 кв. м., включающего в себя усиление дорожного полотна, частичную замену бортового камня, поребрика \nи тротуарной части. Протяженность ремонтируемого участка составит 907 м.\n\n\n\n<br></p>",
+            "attachments": null,
+            "rejectReason": null,
+            "createdAt": "2022-11-03T13:21:07.838163Z",
+            "stageTime": "2022-12-01T23:59:59.000000Z",
+            "organizationTitle": "МУНИЦИПАЛЬНОЕ КАЗЁННОЕ УЧРЕЖДЕНИЕ \"ДИРЕКЦИЯ ПО СТРОИТЕЛЬСТВУ ОБЪЕКТОВ ТРАНСПОРТНОЙ ИНФРАСТРУКТУРЫ Г. РОСТОВА-НА-ДОНУ\"",
+            "forwardedToOrganizationTitle": null,
+            "stage": null,
+            "feedbackRecieved": {
+                "feedbackMark": 5,
+                "feedbackComment": "Будем ждать ",
+                "feedbackAttachmentFiles": null,
+                "feedbackCreatedAt": "2022-11-03T13:26:06.022393Z"
+            },
+            "escalationRequested": null
+        }
+    ],
+    "commentFromDepartment": null,
+    "relatedTo": null,
+    "answerAt": "2022-12-01T23:59:59.000000Z",
+    "isAuthorizedUserCreated": null
+}
