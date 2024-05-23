@@ -57,7 +57,7 @@ $$Risk = idw,$$
 
 ![subj_example](/images/slide_8.png)
 
-# Схема алгоритма
+## Схема алгоритма
 ![uqi_scheme](/images/uqi_scheme_presentation_wbg_300.png)
 
 Ниже представлен пример расчета $UQI$ для Центрального и Адмиральтейского районов г. Санкт-Петербурга.
